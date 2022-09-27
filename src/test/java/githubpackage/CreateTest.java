@@ -12,7 +12,6 @@ public void create()
 @Test
 public void tejas()
 {
-	System.out.println("---created------");
-	System.out.println("---changes tejas-----");
+	System.out.println("somecanges done");
 }
 }
