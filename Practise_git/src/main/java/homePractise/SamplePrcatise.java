@@ -10,6 +10,10 @@ public void second()
 {
 	System.out.println("second commit");
 }
+public void third()
+{
+	System.out.println(" third");
+}
 }
 
  
