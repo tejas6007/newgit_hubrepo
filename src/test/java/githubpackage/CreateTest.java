@@ -11,6 +11,7 @@ public void create()
 	
 
 }
+@Test
 public void tejas()
 {
 	System.out.println("---created------");
